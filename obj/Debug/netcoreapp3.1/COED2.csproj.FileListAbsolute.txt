@@ -1,0 +1,13 @@
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.csprojAssemblyReference.cache
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.csproj.CoreCompileInputs.cache
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.AssemblyInfoInputs.cache
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.AssemblyInfo.cs
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.exe
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.deps.json
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.runtimeconfig.json
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.runtimeconfig.dev.json
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.dll
+C:\Users\PussyDominator\Documents\GitHub\COED2\bin\Debug\netcoreapp3.1\COED2.pdb
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.dll
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.pdb
+C:\Users\PussyDominator\Documents\GitHub\COED2\obj\Debug\netcoreapp3.1\COED2.genruntimeconfig.cache
